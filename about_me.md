@@ -1,0 +1,6 @@
+- 🥐 Hi there! I am a french computer science **student** who enjoys dealing with anything related to *IT* :)
+- ✍️ I can write full **LaTeX, Markdown, HTML & CSS** documents from scratch for your next projects
+- 🎼 I can play the piano and have fun with some video and photography stuff (have shot a few documentaries)
+- 🛠 I'd love to learn **how to build apps**, and I plan to achieve this goal
+- 🎨 Design is a real obsession, by the way ^^
+- 🗽 **Opensource means future!** That's basically why I am here!
